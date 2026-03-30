@@ -1,0 +1,20 @@
+# FILES ADDED IN THIS WORKSPACE
+backend/tests/test_generate_service.py       — unit tests
+backend/tests/test_generate_route.py         — integration + security checks
+frontend/playwright.config.ts
+frontend/tests/search.spec.ts                — FE flow; /generate mocked
+load-tests/generate-load.js                  — k6: 50→100 VUs, P95 & failure thresholds
+
+# Backend tests
+  cd backend
+  python -m pip install fastapi uvicorn pytest httpx
+  python -m pytest tests -q
+
+# Frontend tests
+  cd frontend && npx playwright install
+  From repo root: npx playwright test --config=frontend/playwright.config.ts
+  (or cd frontend && npx playwright test)
+
+# Load test
+  k6 run load-tests/generate-load.js
+

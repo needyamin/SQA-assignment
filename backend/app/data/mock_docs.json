@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Data Protection and Privacy Act",
+    "content": "This act establishes the rules for collecting, storing, and processing personal data. Organizations must ensure data security and comply with consent requirements."
+  },
+  {
+    "id": 2,
+    "title": "Intellectual Property Rights Law",
+    "content": "This law protects creative works, inventions, trademarks, and patents. It defines ownership, licensing, and enforcement procedures for intellectual property."
+  },
+  {
+    "id": 3,
+    "title": "Employment Standards Act",
+    "content": "Regulates minimum wage, work hours, overtime, leave, and workplace safety. Employers must comply to avoid legal penalties."
+  },
+  {
+    "id": 4,
+    "title": "Contract Law Basics",
+    "content": "Covers formation, performance, and enforcement of contracts. Includes terms, obligations, and remedies in case of breach."
+  },
+  {
+    "id": 5,
+    "title": "Consumer Protection Regulations",
+    "content": "Ensures fair trade practices, product safety, and transparent advertising. Consumers have rights to refunds, repairs, and compensation for defective products."
+  },
+  {
+    "id": 6,
+    "title": "Environmental Compliance Act",
+    "content": "Mandates businesses to follow environmental standards, manage waste responsibly, and reduce emissions. Violations can lead to fines and legal action."
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity Framework",
+    "content": "Outlines standards for network security, data breach responses, and risk management. Companies must implement protocols to protect digital assets."
+  },
+  {
+    "id": 8,
+    "title": "Corporate Governance Code",
+    "content": "Defines roles, responsibilities, and ethical standards for board members and executives. Ensures accountability and transparency in corporate management."
+  },
+  {
+    "id": 9,
+    "title": "Anti-Money Laundering Law",
+    "content": "Requires financial institutions to report suspicious transactions and maintain records. Non-compliance results in strict penalties."
+  },
+  {
+    "id": 10,
+    "title": "Intellectual Property Licensing Agreement Template",
+    "content": "Provides a standard framework for licensing software, trademarks, and patents. Covers rights, limitations, royalties, and termination clauses."
+  }
+]
